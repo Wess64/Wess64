@@ -1,10 +1,8 @@
-**
-█░█▀▀ █▀█ ▀█▀  < real
-█░█▄█ █▄█ ░█░  < real
-█▀█ █▀▀ ▄▀█ █░ < real
-█▀▄ ██▄ █▀█ █▄ < real**
-
-hi!! welcome to my profile ;3
+░░░░█░█▀▀ █▀█ ▀█▀░ < real<br>
+░░░░█░█▄█ █▄█ ░█░░ < real<br>
+░░░░█▀█ █▀▀ ▄▀█ █░░ < real<br>
+░░░░█▀▄ ██▄ █▀█ █▄░ < real<br>
+hi!! welcome to my profile ;3<br>
 random guy who likes to make funny program i ng :0
 
 [text-thingy](<https://github.com/Wess64/text-thingy>) • [cubic3](<https://github.com/Wess64/cubic3>) • [puzzle-thingy](<https://github.com/Wess64/puzzle-thingy>) • 
